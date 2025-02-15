@@ -8,7 +8,7 @@
 
 <p justify-content="center">
   
- [![My Skills](https://skillicons.dev/icons?i=py,java,golang,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,rust,py,lua)](https://skillicons.dev)
 
 </p>
 
