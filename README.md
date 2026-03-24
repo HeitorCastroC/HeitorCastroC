@@ -17,10 +17,10 @@
 
 ### `> whoami`
 ```bash
-nm     Heitor Costa
-ip addr Minas Gerais --🇧🇷.
-pull    Systems Programming; Algorithms; Open Source.
-systemctl status   Learning Rust; Building things; Vibe debugging.
+Name:     Heitor Costa
+Location: Minas Gerais Brasil 🇧🇷
+Focus:    Systems Programming, Algorithms, Open Source
+Status:   Learning Rust · Building things · VibeDebugging
 ```
 
 ---
