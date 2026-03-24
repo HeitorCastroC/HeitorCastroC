@@ -15,7 +15,7 @@
 ```
 ### `> cat tech_stack.txt`
 
-[![My Skills](https://skillicons.dev/icons?i=java,rust,py,php,js,lua,vue,sprinf,linux,arch,neovim,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,py,php,js,lua,vue,spring,linux,arch,neovim,mysql,postgres)](https://skillicons.dev)
 
 
 
